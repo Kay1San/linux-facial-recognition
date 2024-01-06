@@ -22,7 +22,7 @@ Ce projet requiert les éléments suivants afin de le reproduire :
 La premiere étape est de cloner ce programme dans votre répertoire locale par : 
 
 ```
-git clone git@bitbucket.org:rgourdeau/ele4205_projet_aut2023_19.git
+git clone https://github.com/Kay1San/linux-facial-recognition.git
 ``` 
 
 Une fois le répertoire cloné, si ce n'est déja pas fait, il faut premièrement établir la connexion ssh : 
