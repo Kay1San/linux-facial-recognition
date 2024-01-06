@@ -1,4 +1,4 @@
-# Projet - Système de vision basé sur une caméra USB
+# Projet - Système de reconnaissance faciale avec commucation TCP sur un Odroid-C2
 
 Ce projet utilise un Odroid-C2 et une caméra afin de permettre à l'utilisateur de prendre une photo pour ainsi entrainer un modèle de détection de visages afin d'en faire la reconnaissance en affichant le nom de la personne.
 
